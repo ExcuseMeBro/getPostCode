@@ -8,3 +8,4 @@ get @like bot hash code
 pip install pyrogram
 # run scipt
 python3 filename.py
+# Post link share Telegram admin chat
